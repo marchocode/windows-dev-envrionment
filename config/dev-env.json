@@ -1,0 +1,30 @@
+{
+  "buckets": ["extras", "java", "nerd-fonts"],
+  "apps": [
+    "git",
+    "7zip",
+    "aria2",
+    "sudo",
+    "python",
+    "nodejs-lts",
+    "go",
+    "rustup",
+    "zig",
+    "cmake",
+    "gcc",
+    "llvm",
+    "ninja",
+    "gh",
+    "jq",
+    "fzf",
+    "ripgrep",
+    "fd",
+    "bat",
+    "neovim",
+    "starship",
+    "docker",
+    "kubectl",
+    "temurin17-jdk",
+    "JetBrainsMono-NF"
+  ]
+}
